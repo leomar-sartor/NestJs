@@ -1,0 +1,5 @@
+Tem 3 tipos principais pra input/output
+são eles
+    - Object // POde ser o type de retorno pra algo também
+    - Args
+    - Input
